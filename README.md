@@ -2,7 +2,7 @@
 <h3 align="center">A Fourth-Year Computer Engineering Student</h3>
 <h3>About Me 🚀</h3>
 
-- 🌱 I’m currently learning **advancing my skills in Python my university studies.**
+- 🌱 I’m currently **advancing my skills in Python alongside my university studies.**
 
 - 📫 How to reach me **eniseaydin07@gmail.com**
 
